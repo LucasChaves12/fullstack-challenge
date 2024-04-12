@@ -6,7 +6,7 @@ This repository contains both backend and frontend folders for the technical cha
 
 To run the backend server, follow these steps:
 
-1. Navigate to the `backend` folder: cd backend
+1. Navigate to the `backend` folder: cd ./backend
 
 2. Install dependencies using npm install
 
@@ -20,7 +20,7 @@ To run the backend server, follow these steps:
 
 To run the frontend application, follow these steps:
 
-1. Navigate to the `frontend` folder: cd frontend
+1. Navigate to the `frontend` folder: cd ./front
 
 2. Install dependencies using npm install
 
